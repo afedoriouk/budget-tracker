@@ -1,7 +1,6 @@
 # Budget Tracker Progressive Web Applications (PWA) Project 19
 https://budgettrackerbt.herokuapp.com/
 
-## Mock-Up
 The following image shows the web application's appearance and functionality:
 <img width="80%" alt="Budget Tracker Img-1" src="https://user-images.githubusercontent.com/98120553/174515359-61082ca3-be4e-4cfa-a1d6-0262f2a230d3.png">
 <img width="80%" alt="Budget Tracker Img-2" src="https://user-images.githubusercontent.com/98120553/174515370-be79af0a-9e33-4a69-8118-eaef945ffc22.png">
@@ -20,8 +19,8 @@ This PWA Appplication could be very useful for the users alowing them an easy wa
 ## Features of the Budget Tracker Progressive Web Applications (PWA) 
 
 ```md
-Access the Budget Tracker without an internet connection
-Update the balance and receive a notification.
+Access the Budget Tracker without an internet connection.</br>
+Update the balance and receive notifications about the changes.
 ```
 ### Offline Functionality
 
