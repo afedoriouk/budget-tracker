@@ -12,7 +12,7 @@ The following image shows the web application's appearance and functionality:
 
 ## User Story
 
-This PWA Appplication could be very useful for the users alowing them an easy way to track their finances from anywhere in the world. Also, it is very important that this PWA will allow them to access that information at any time. This application features an offline functionality which could be very useful when handling the financial information of the users. Especialy when the customers are traveling and need to track their budget in a different time zones with or without the access to the internet.
+This PWA Application could be very useful for the users allowing them an easy way to track their finances from anywhere in the world. Also, it is very important that this PWA will allow them to access that information at any time. This application features an offline functionality which could be very useful when handling the financial information of the users. Especially when the customers are traveling and need to track their budget in a different time zones with or without the access to the internet.
 
 
 
@@ -25,7 +25,7 @@ Update the balance & receive notifications about the changes.
 ### Offline Functionality
 
 This application utilizes IndexedDB to add offline functionality.</br>
-Also, this PWA using service worker to update data on the locar server.</br> 
+Also, this PWA using service worker to update data on the local server.</br> 
 Chrome DevTools makes it possible to test service workers on localhost.</br>
 Both files are located in the `public folder`
 This application is deployed to Heroku.
