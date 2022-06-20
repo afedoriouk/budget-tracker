@@ -18,10 +18,10 @@ This PWA Appplication could be very useful for the users alowing them an easy wa
 
 ## Features of the Budget Tracker Progressive Web Applications (PWA) 
 
-```md
-Access the Budget Tracker without an internet connection.</br>
-Update the balance and receive notifications about the changes.
-```
+`
+Access the Budget Tracker without an internet connection.
+Update the balance & receive notifications about the changes.
+`
 ### Offline Functionality
 
 This application utilizes IndexedDB to add offline functionality.</br>
